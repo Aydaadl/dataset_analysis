@@ -1,0 +1,13 @@
+feature,description
+out_prncp,Remaining outstanding principal for total amount funded
+total_rec_prncp,Principal received to date
+total_rec_int,Interest received to date
+total_rec_late_fee,Late fees received to date
+recoveries,post charge off gross recovery
+last_pymnt_amnt,Last total payment amount received
+debt_settlement_flag, the debt has/hasn't been settled
+int_rate%,Interest Rate on the loan in percentage
+loan_age,days since the loan was founded
+time_since_last_payment,days from last payment
+time_since_last_credit_pull,days from the most recent month LC pulled credit for this loan
+loan_amnt_div_instlmnt,loan amount divided by installment
